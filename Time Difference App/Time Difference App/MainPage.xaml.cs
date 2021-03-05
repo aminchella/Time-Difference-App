@@ -14,5 +14,9 @@ namespace Time_Difference_App
         {
             InitializeComponent();
         }
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+
+        }
     }
 }
